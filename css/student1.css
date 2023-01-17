@@ -1,0 +1,15 @@
+h1 {
+    color: #0000ff; 
+    background-color: #d1d2d1;
+    border: groove 3px white;
+}
+h2 { 
+    size: smaller; 
+    background-color: rgb(234, 231, 207);
+    color: #000000; 
+    border: solid 2px black; 
+}
+body { 
+    background-color: beige;
+}  
+
